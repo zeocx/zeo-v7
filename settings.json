@@ -1,0 +1,22 @@
+{
+    "self_mode": true,
+	"autobio": true,
+	"antihidetag": true,
+	"user_register": true,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6289516207932",
+	"ownerNumberr": "6289516207932",
+	"cr": "@ZeeoneOfcོ",
+	"ownername": "zeo",
+	"botname":"zeocx-v4",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"donasi":"donasi.jpg",
+	"fake": " 「  zeocx  」\nCreated By @zeo"
+}
