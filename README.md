@@ -1,3 +1,6 @@
+<div align="center">
+<img src="https://telegra.ph/file/090bd00da9fa634a6b691.jpg" alt="YOGI" width="170" />
+
 # ```SELF-BOT```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
